@@ -1,0 +1,19 @@
+# 临时文件和编译生成的文件
+*.DS_Store
+node_modules/
+dist/
+build/
+coverage/
+
+# 日志文件
+*.log
+*.txt
+*.md
+
+# 缓存文件和编辑器配置文件
+.vscode/
+.idea/
+.gitignore_global/
+
+# 敏感信息文件
+.env
